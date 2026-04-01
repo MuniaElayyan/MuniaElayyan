@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi! I'm Munia Elayyan
+Junior Front-End Developer | Passionate about Web Apps | JavaScript, HTML, CSS, Python
 
 <!--
 **MuniaElayyan/MuniaElayyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
